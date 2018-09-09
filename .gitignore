@@ -105,4 +105,4 @@ venv.bak/
 
 # app_secrets
 #
-secrets.ini
+config/secrets.py
